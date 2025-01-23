@@ -8,12 +8,13 @@ format:
 jupyter: python3
 editor:
     render-on-save: true
+---
 
 # 1. Abstract and Description
 
 ## Abstract
 
-We measured the voltage at two points in a resistor network to validate the behavior of the circuit. We found the ratio of voltages was: $0.665\pm 0.001$ close to the expected value of $0.667$. We also measured the decay over time of the voltage on a capacitor. We used that to estimate the decay time constant and found that to be $\tau = 66.57 \pm 0.34\mathrm{~ms}$, very close to the expected value of $\tau =66.67\mathrm{~ms}$. (Please replace these numbers with numbers from  your actual experiment and analysis. Then delete this parenthetical comment.)
+We measured the voltage at two points in a resistor network to validate the behavior of the circuit. We found the ratio of voltages was: $0.664\pm 0.001$ close to the expected value of $0.667$. We also measured the decay over time of the voltage on a capacitor. We used that to estimate the decay time constant and found that to be $\tau = 66.58 \pm 0.30\mathrm{~ms}$, very close to the expected value of $\tau =66.67\mathrm{~ms}$.
 
 ## Description
 
@@ -207,7 +208,7 @@ The statistics exercises for this project were to perform the curve fitting for 
 
 # 5. Conclusion
 
-We performed two experiments 1. measurements on a voltage divider to validate the value of the ratio of the bottom resistor to the whole network and 2. to measure the time constant of an RC network.  We found the ratio of voltages for the voltage divider was: $0.665\pm 0.001$ close to the expected value of $0.667$. We found the time constant of the RC circuit to be $tau = 66.57 \pm 0.34\mathrm{~ms}$, very close to the expected value of $66.67\mathrm{~ms}$.
+We performed two experiments 1. measurements on a voltage divider to validate the value of the ratio of the bottom resistor to the whole network and 2. to measure the time constant of an RC network.  We found the ratio of voltages for the voltage divider was: $0.664\pm 0.001$ close to the expected value of $0.667$. We found the time constant of the RC circuit to be $tau = 66.58 \pm 0.30\mathrm{~ms}$, very close to the expected value of $66.67\mathrm{~ms}$.
 
 The goal of this project was to become famiar with all the tools we'll be using this semester in Laboratory Instrumentation and to make some real measurements, and analyze some real data.
 
